@@ -10,3 +10,5 @@ The direction of the motor can be changed by pressing a switch connected to a di
 The code uses a variable called "direction" to keep track of the current direction of the motor and toggles it between forward and backward when the switch is pressed. 
 The code runs in an infinite loop and constantly updates the motor speed and direction based on the potentiometer value and switch state. 
 A small delay is added at the end of each loop iteration to ensure stability.
+
+This was created for a lesson. The code 'Control_DC_Motor.ino' has a lot of comments to help explain the process and reasons.
